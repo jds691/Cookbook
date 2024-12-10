@@ -1,0 +1,224 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%lld_EXPIRED_ITEMS_DIALOG" : {
+      "comment" : "Shown to the user to indicate",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "There is 1 expired item."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "There are %lld expired items."
+                }
+              },
+              "zero" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "There are no expired items."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld_ITEMS_EXPIRING_SOON_DIALOG" : {
+      "comment" : "Shown to the user to indicate",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "There is 1 item expiring soon."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "There are %lld items expiring soon."
+                }
+              },
+              "zero" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "There are no items expiring soon."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "GetExpiredItemsIntent.shortcut.shortTitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expired"
+          }
+        }
+      }
+    },
+    "GetExpiredItemsIntent.title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Exired Food"
+          }
+        }
+      }
+    },
+    "GetExpiringSoonItemsIntent.shortcut.shortTitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expiring Soon"
+          }
+        }
+      }
+    },
+    "GetExpiringSoonItemsIntent.title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Food Expiring Soon"
+          }
+        }
+      }
+    },
+    "GetPantryItemExpiryIntent.%@.state.expired" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ is already expired."
+          }
+        }
+      }
+    },
+    "GetPantryItemExpiryIntent.%@.state.other.on.%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ will expired on %2$@."
+          }
+        }
+      }
+    },
+    "GetPantryItemExpiryIntent.pantryItem.requestValueDialog" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What’s the name of the item?"
+          }
+        }
+      }
+    },
+    "GetPantryItemExpiryIntent.pantryItem.title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Item"
+          }
+        }
+      }
+    },
+    "GetPantryItemExpiryIntent.title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Expiry Date"
+          }
+        }
+      }
+    },
+    "ITEM_STATE_EXPIRED" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expired"
+          }
+        }
+      }
+    },
+    "ITEM_STATE_FROZEN" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frozen"
+          }
+        }
+      }
+    },
+    "ITEM_STATE_OPENED" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opened"
+          }
+        }
+      }
+    },
+    "ITEM_STATE_SEALED" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sealed"
+          }
+        }
+      }
+    },
+    "PantryItemEntity.typeDisplayRepresentation" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pantry Item"
+          }
+        }
+      }
+    },
+    "PantryItemState.typeDisplayRepresentation" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pantry Item State"
+          }
+        }
+      }
+    },
+    "RecipeEntity.typeDisplayRepresentation" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recipe"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

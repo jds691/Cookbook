@@ -1,0 +1,50 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "NOTIFICATION_ITEM_ALMOST_EXPIRED_CONTENT" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ needs to be eaten within 2 days."
+          }
+        }
+      }
+    },
+    "NOTIFICATION_ITEM_ALMOST_EXPIRED_TITLE" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ expires soon"
+          }
+        }
+      }
+    },
+    "NOTIFICATION_ITEM_EXPIRED_CONTENT" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "It may be unsafe to eat."
+          }
+        }
+      }
+    },
+    "NOTIFICATION_ITEM_EXPIRED_TITLE" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ has expired"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

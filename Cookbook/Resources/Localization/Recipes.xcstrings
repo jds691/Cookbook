@@ -1,0 +1,94 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "ACTION_CREATE_RECIPE" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create Recipe"
+          }
+        }
+      }
+    },
+    "ACTION_MAKE_RECIPE" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Let's Make It!"
+          }
+        }
+      }
+    },
+    "LABEL_CREATE_RECIPE" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create Recipe"
+          }
+        }
+      }
+    },
+    "LABEL_INGREDIENTS" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Ingredients"
+          }
+        }
+      }
+    },
+    "NOTICE_CONTENT_DISCARD_RECIPE" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you discard this recipe?"
+          }
+        }
+      }
+    },
+    "NOTICE_CONTENT_NO_RECIPES" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You have not saved any recipes."
+          }
+        }
+      }
+    },
+    "NOTICE_LABEL_DISCARD_RECIPE" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "This action cannot be undone."
+          }
+        }
+      }
+    },
+    "NOTICE_LABEL_NO_RECIPES" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Recipes"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

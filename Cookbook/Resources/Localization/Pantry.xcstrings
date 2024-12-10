@@ -1,0 +1,148 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "ACTION_MARK_FROZEN" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mark as Frozen"
+          }
+        }
+      }
+    },
+    "ACTION_MARK_OPENED" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mark as Opened"
+          }
+        }
+      }
+    },
+    "ACTION_UNFREEZE" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unfreeze"
+          }
+        }
+      }
+    },
+    "LABEL_ADD_TO_PANTRY" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add to pantry"
+          }
+        }
+      }
+    },
+    "LABEL_EXPIRES" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expires end of:"
+          }
+        }
+      }
+    },
+    "LABEL_EXPIRES_IN_%lld" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Once opened, expires in 1 day"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Once opened, expires in %lld days"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "LABEL_FROZEN_ON" : {
+      "comment" : "Date is displayed by the view itself, not the label.",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Frozen on"
+          }
+        }
+      }
+    },
+    "LABEL_SHOW_EXACT_DATE" : {
+      "comment" : "This label is connected to a toggle that when pressed, changes the display format.",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show Exact Date"
+          }
+        }
+      }
+    },
+    "LABEL_UPDATE_ITEM" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update Item"
+          }
+        }
+      }
+    },
+    "NOTICE_CONTENT_DELETE_ITEM" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to delete this item?"
+          }
+        }
+      }
+    },
+    "NOTICE_CONTENT_NO_RECIPES" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your pantry is empty. Add some items to get started."
+          }
+        }
+      }
+    },
+    "NOTICE_LABEL_NO_ITEMS" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Items"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
